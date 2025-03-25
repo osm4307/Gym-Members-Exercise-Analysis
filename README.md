@@ -1,7 +1,7 @@
 # Gym-Members-Exercise-Analysis
 
 ### About Project
-This project utilizes various data points, including gym members' age, gender, height, weight, BMI, workout type, calories burned, daily workout duration, and weekly workout frequency. The goal is to provide insights that help gym members achieve more effective workout results.
+- This project utilizes various data points, including gym members' age, gender, height, weight, BMI, workout type, calories burned, daily workout duration, and weekly workout frequency. The goal is to provide insights that help gym members achieve more effective workout results.
 <br>해당 프로젝트는 헬스장 회원들의 나이, 성별, 키, 몸무게, BMI 와 같은 기본적인 정보부터 운동 유형, 칼로리 소모량, 하루 운동 시간, 주 운동 횟수 등 다양한 데이터를 기반으로 헬스장 회원들에게 효과적인 운동 효과를 이끌어 낼 수 있게 한다.
 
 ### DataSet
